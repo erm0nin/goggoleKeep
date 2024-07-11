@@ -114,6 +114,7 @@ legend {
 }
 
 .form__starter {
+  cursor: pointer;
   background-color: #fff;
 }
 
@@ -132,6 +133,7 @@ legend {
 
 .form__text {
   margin-bottom: 1rem;
+  border-bottom: 2px solid rgba(5, 5, 5, 0.6);
 }
 
 .main__cards-wrapper {
